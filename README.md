@@ -1,0 +1,1 @@
+# Example of Dynamic Classes with Multiple Inheritance
